@@ -257,7 +257,29 @@ Take action as soon as possible.
 
 ## Trusted Resources
 
-Future updates to this guide will include links to trusted cybersecurity, fraud-reporting, privacy, and identity-theft resources.
+### Cybersecurity & Account Security
+
+- [CISA – Secure Our World](https://www.cisa.gov/secure-our-world)  
+  Cybersecurity guidance covering strong passwords, multi-factor authentication, phishing, and software updates.
+
+- [NIST – How Do I Create a Good Password?](https://www.nist.gov/cybersecurity-and-privacy/how-do-i-create-good-password)  
+  Guidance from the National Institute of Standards and Technology on passwords, password managers, MFA, and account security.
+
+### Fraud & Identity Theft
+
+- [FTC – Identity Theft and Online Security](https://consumer.ftc.gov/identity-theft-online-security)  
+  Consumer guidance covering scams, online privacy, identity theft, and account security.
+
+- [IdentityTheft.gov](https://www.identitytheft.gov/)  
+  The federal government's resource for reporting identity theft and creating a personalized recovery plan.
+
+- [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/)  
+  Official Federal Trade Commission website for reporting fraud, scams, and deceptive practices.
+
+### Public Wi-Fi & Online Privacy
+
+- [FTC – Are Public Wi-Fi Networks Safe?](https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-know)  
+  Guidance explaining encryption, HTTPS, public Wi-Fi, and ways to protect personal information while online.
 
 ---
 
