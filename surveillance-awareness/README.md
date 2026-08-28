@@ -1,9 +1,36 @@
 # Surveillance Awareness
 
-Accessible educational resources explaining technologies used to collect, monitor, and analyze information in public and digital spaces.
+Accessible resources designed to help people understand technologies that collect, analyze, and connect information about individuals, devices, vehicles, and activity.
 
-Topics will include license plate readers, facial recognition, cameras, location tracking, data collection, and other forms of digital surveillance.
+## Available Resources
 
-The goal is to help people better understand how these technologies work, what information they may collect, and their potential privacy implications.
+### 👁️ [Surveillance Technology Awareness Guide](surveillance-technology-awareness-guide.md)
 
-> Resources for this section are currently under development.
+A beginner-friendly guide covering:
+
+- Security cameras
+- Automated license plate readers
+- Facial recognition
+- Location tracking
+- Mobile device data
+- Smart devices and IoT
+- Network information
+- Online tracking
+- Data aggregation
+- Data retention
+- Data sharing
+- Cybersecurity of surveillance systems
+
+## Key Principle
+
+**Awareness, not fear.**
+
+Understanding how technology works, what information it collects, who can access that information, and how it is protected allows people to make more informed decisions about privacy and security.
+
+## Coming Next
+
+Additional explainers and educational resources about surveillance technologies, privacy, and cybersecurity will be added as the Community Cyber Defense Project grows.
+
+---
+
+[← Back to Community Cyber Defense Project](../README.md)
