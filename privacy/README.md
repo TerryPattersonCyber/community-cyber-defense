@@ -1,7 +1,30 @@
 # Privacy
 
-Resources focused on helping people understand and protect their personal information in an increasingly connected world.
+Practical resources designed to help people better understand how personal information is collected, shared, and exposed online and what they can do to improve their privacy.
 
-Topics will include online tracking, data collection, app permissions, location tracking, privacy settings, and practical ways to reduce unnecessary exposure of personal information.
+## Available Resources
 
-> Resources for this section are currently under development.
+### 🔐 [Privacy Protection Guide](privacy-protection-guide.md)
+
+A beginner-friendly guide covering:
+
+- Digital footprints
+- Privacy settings
+- Location sharing
+- App permissions
+- Online tracking
+- Data minimization
+- Social media privacy
+- Photo privacy
+- Connected accounts
+- Sensitive documents
+- Browser privacy
+- Data brokers and people-search sites
+
+## Coming Next
+
+Additional privacy resources, checklists, and explainers will be added as the Community Cyber Defense Project grows.
+
+---
+
+[← Back to Community Cyber Defense Project](../README.md)
